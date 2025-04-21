@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiful</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Final Year Data Science Student</h3>
 
 - 🔭 I’m currently working on **Early Alzheimer’s Disease Prediction, Deep Unlearning for Privacy-Compliant, Bias-Free, and Adaptive AI Models in HER2-Based Breast Cancer Diagnosis**
 
