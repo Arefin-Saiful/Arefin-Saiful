@@ -46,7 +46,7 @@
 
 ---
 
-### 💼 Projects Showcase
+### 💼 Projects Showcase  
 - 🧠 Alzheimer’s Detection (ViT + Grad-CAM on MRI)  
 - 🧬 HER2 Breast Cancer Diagnosis (Unlearning + Segmentation)  
 - 💬 Amazon Review Sentiment (91% accuracy + Streamlit)  
@@ -58,7 +58,7 @@
 ### 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arefin-Saiful&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin-Saiful&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin-Saiful&layout=compact&theme=radical&hide=jupyter%20notebook" width="47%" />
 </p>
 
 ---
@@ -67,5 +67,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arefin-Saiful/Saiful/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
----
