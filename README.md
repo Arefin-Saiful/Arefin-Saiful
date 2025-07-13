@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin-Saiful&layout=compact&theme=radical&hide=jupyter%20notebook" width="47%" />
 </p>
 
-> ⚠️ *Top languages update automatically based on your public repositories.*
+> ⚠️ *Top languages update automatically based on my public repositories.*
 
 ---
 
