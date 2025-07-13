@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiful</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=500&height=50&center=true&vCenter=true&color=4DB6AC&lines=Final+Year+Data+Science+Student;ML+Model+Trainer+%7C+AI+Researcher;Exploring+MLOps+%7C+Model+Deployment" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=500&height=50&center=true&vCenter=true&color=4DB6AC&lines=Final+Year+Data+Science+Student;ML+Model+Trainer+%7C+AI+Researcher;Exploring+MLOps+%7C+Model+Deployment;React+%2F+Next.js+Frontend+Engineer" />
 </h3>
 
 ---
@@ -41,7 +41,7 @@
 
 ### ⚙️ Tools & Languages  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,c,git,mysql,opencv,scikit-learn,seaborn,docker" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,framer,pytorch,tensorflow,java,c,git,mysql,opencv,scikit-learn,seaborn,docker" />
 </div>
 
 ---
@@ -60,6 +60,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Arefin-Saiful&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin-Saiful&layout=compact&theme=radical&hide=jupyter%20notebook" width="47%" />
 </p>
+
+> ⚠️ *Top languages update automatically based on your public repositories.*
 
 ---
 
