@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saiful</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=500&height=50&center=true&vCenter=true&color=4DB6AC&lines=Final+Year+Data+Science+Student;ML+Model+Trainer+%7C+AI+Researcher;Exploring+MLOps+%7C+Model+Deployment;React+%2F+Next.js+Frontend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=520&height=50&center=true&vCenter=true&color=4DB6AC&lines=Final+Year+Data+Science+Student;ML+Model+Trainer+%7C+AI+Researcher;Exploring+MLOps+%7C+Model+Deployment;React+%2F+Next.js+Frontend+Engineer" />
 </h3>
 
 ---
 
 ### 🔭 What I'm Working On  
-- 🧠 Early Alzheimer’s Detection using Vision Transformers + XAI  
-- 🧬 Deep Unlearning in HER2 Breast Cancer Diagnosis  
+- 🧪 ER-IHC Staining Intensity Semantic Segmentation (5-Class)  
+- 🧠 EEG Signal Classification  
 - 🌐 Phishing & Mental Health Detection using NLP + DL  
 
 ---
@@ -20,12 +20,15 @@
 ---
 
 ### 📫 Contact  
-📧 **mohammadsaifularefin@gmail.com**
+📧 <b>mohammadsaifularefin@gmail.com</b>
 
 ---
 
 ### 🌐 Find Me Online  
 <p align="center">
+  <a href="https://mdarefin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/mohammad-saiful-arefin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
@@ -33,7 +36,7 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white" />
   </a>
   <a href="https://github.com/Arefin-Saiful" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -46,12 +49,43 @@
 
 ---
 
-### 💼 Projects Showcase  
-- 🧠 Alzheimer’s Detection (ViT + Grad-CAM on MRI)  
-- 🧬 HER2 Breast Cancer Diagnosis (Unlearning + Segmentation)  
-- 💬 Amazon Review Sentiment (91% accuracy + Streamlit)  
-- 📈 Netflix Stock Forecasting (Multi-layer LSTM)  
-- 🧾 Employee Promotion Prediction (SMOTE + XGBoost)  
+## 💼 Projects Showcase (Repo Cards)
+
+<p align="center">
+  <a href="https://github.com/Arefin-Saiful/ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--&theme=radical" />
+  </a>
+  <a href="https://github.com/Arefin-Saiful/EEG-Signal-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=EEG-Signal-Classification&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arefin-Saiful/PhishGuard-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=PhishGuard-System&theme=radical" />
+  </a>
+  <a href="https://github.com/Arefin-Saiful/Automated-Billing-Extraction-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Automated-Billing-Extraction-System&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arefin-Saiful/University-Sentiment-Analysis-Dashboard.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=University-Sentiment-Analysis-Dashboard.&theme=radical" />
+  </a>
+  <a href="https://github.com/Arefin-Saiful/Amazon-Reviews-Sentiment-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Amazon-Reviews-Sentiment-Analysis&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arefin-Saiful/Employee-Promotion-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Employee-Promotion-Prediction&theme=radical" />
+  </a>
+  <a href="https://github.com/Arefin-Saiful/Stock_Prediction_using_LSTM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Stock_Prediction_using_LSTM&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -61,7 +95,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin-Saiful&layout=compact&theme=radical&hide=jupyter%20notebook" width="47%" />
 </p>
 
-> ⚠️ *Top languages update automatically based on my public repositories.*
+> ⚠️ <i>Top languages update automatically based on my public repositories.</i>
 
 ---
 
