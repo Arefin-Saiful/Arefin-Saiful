@@ -53,37 +53,37 @@
 
 <p align="center">
   <a href="https://github.com/Arefin-Saiful/ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--&theme=radical&cache_seconds=86400&v=1" />
   </a>
   <a href="https://github.com/Arefin-Saiful/EEG-Signal-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=EEG-Signal-Classification&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=EEG-Signal-Classification&theme=radical&cache_seconds=86400&v=1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Arefin-Saiful/PhishGuard-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=PhishGuard-System&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=PhishGuard-System&theme=radical&cache_seconds=86400&v=1" />
   </a>
   <a href="https://github.com/Arefin-Saiful/Automated-Billing-Extraction-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Automated-Billing-Extraction-System&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Automated-Billing-Extraction-System&theme=radical&cache_seconds=86400&v=1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Arefin-Saiful/University-Sentiment-Analysis-Dashboard.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=University-Sentiment-Analysis-Dashboard.&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=University-Sentiment-Analysis-Dashboard.&theme=radical&cache_seconds=86400&v=1" />
   </a>
   <a href="https://github.com/Arefin-Saiful/Amazon-Reviews-Sentiment-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Amazon-Reviews-Sentiment-Analysis&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Amazon-Reviews-Sentiment-Analysis&theme=radical&cache_seconds=86400&v=1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Arefin-Saiful/Employee-Promotion-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Employee-Promotion-Prediction&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Employee-Promotion-Prediction&theme=radical&cache_seconds=86400&v=1" />
   </a>
   <a href="https://github.com/Arefin-Saiful/Stock_Prediction_using_LSTM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Stock_Prediction_using_LSTM&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arefin-Saiful&repo=Stock_Prediction_using_LSTM&theme=radical&cache_seconds=86400&v=1" />
   </a>
 </p>
 
@@ -91,8 +91,8 @@
 
 ### 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arefin-Saiful&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin-Saiful&layout=compact&theme=radical&hide=jupyter%20notebook" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arefin-Saiful&show_icons=true&theme=radical&cache_seconds=86400&v=1" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin-Saiful&layout=compact&theme=radical&hide=jupyter%20notebook&cache_seconds=86400&v=1" width="47%" />
 </p>
 
 > ⚠️ <i>Top languages update automatically based on my public repositories.</i>
