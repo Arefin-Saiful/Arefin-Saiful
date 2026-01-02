@@ -4,12 +4,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=520&height=50&center=true&vCenter=true&color=4DB6AC&lines=Final+Year+Data+Science+Student;ML+Model+Trainer+%7C+AI+Researcher;Exploring+MLOps+%7C+Model+Deployment;React+%2F+Next.js+Frontend+Engineer" />
 </h3>
 
+<!-- ✅ Add your own banner image in your profile repo:
+     Create a folder: assets/
+     Put a file: banner.png
+     Then this will work everywhere (no external hosting). -->
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Saiful Banner" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Final Year **Data Science** student (Malaysia)
+- 🔬 Focus: **Medical AI (Segmentation, MRI, EEG)** + **NLP** + **MLOps**
+- 🌐 Portfolio: https://mdarefin.com/
+- 💻 GitHub: https://github.com/Arefin-Saiful
+
 ---
 
 ### 🔭 What I'm Working On  
-- 🧪 ER-IHC Staining Intensity Semantic Segmentation (5-Class)  
-- 🧠 EEG Signal Classification  
-- 🌐 Phishing & Mental Health Detection using NLP + DL  
+- 🧪 **ER-IHC Staining Intensity Semantic Segmentation (5-Class)**  
+- 🧠 **EEG Signal Classification**  
+- 🌐 **Phishing & Mental Health Detection** using NLP + DL  
 
 ---
 
@@ -20,23 +36,23 @@
 ---
 
 ### 📫 Contact  
-📧 <b>mohammadsaifularefin@gmail.com</b>
+📧 **mohammadsaifularefin@gmail.com**
 
 ---
 
 ### 🌐 Find Me Online  
 <p align="center">
   <a href="https://mdarefin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-mdarefin.com-black" />
   </a>
   <a href="https://linkedin.com/in/mohammad-saiful-arefin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kaggle.com/mohammadsaifularefin" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-Follow-blue?logo=kaggle&logoColor=white" />
   </a>
   <a href="https://github.com/Arefin-Saiful" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Arefin--Saiful-181717?logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -49,53 +65,24 @@
 
 ---
 
-## 💼 Projects Showcase (Repo Cards)
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Arefin-Saiful/ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Arefin-Saiful&repo=ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--&theme=radical&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/Arefin-Saiful/EEG-Signal-Classification">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Arefin-Saiful&repo=EEG-Signal-Classification&theme=radical&cache_seconds=86400" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arefin-Saiful/PhishGuard-System">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Arefin-Saiful&repo=PhishGuard-System&theme=radical&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/Arefin-Saiful/Automated-Billing-Extraction-System">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Arefin-Saiful&repo=Automated-Billing-Extraction-System&theme=radical&cache_seconds=86400" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arefin-Saiful/University-Sentiment-Analysis-Dashboard.">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Arefin-Saiful&repo=University-Sentiment-Analysis-Dashboard.&theme=radical&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/Arefin-Saiful/Amazon-Reviews-Sentiment-Analysis">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Arefin-Saiful&repo=Amazon-Reviews-Sentiment-Analysis&theme=radical&cache_seconds=86400" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arefin-Saiful/Employee-Promotion-Prediction">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Arefin-Saiful&repo=Employee-Promotion-Prediction&theme=radical&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/Arefin-Saiful/Stock_Prediction_using_LSTM">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Arefin-Saiful&repo=Stock_Prediction_using_LSTM&theme=radical&cache_seconds=86400" />
-  </a>
-</p>
+| Project | What it does | Tech |
+|---|---|---|
+| 🧪 **[ER-IHC 5-Class Segmentation](https://github.com/Arefin-Saiful/ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--)** | Pixel-level ER staining intensity segmentation | PyTorch • DeepLabV3+ • CV |
+| 🧠 **[EEG Signal Classification](https://github.com/Arefin-Saiful/EEG-Signal-Classification)** | EEG digit classification pipeline | PyTorch • Preprocessing • DL |
+| 🛡️ **[PhishGuard System](https://github.com/Arefin-Saiful/PhishGuard-System)** | Phishing detection (URL/email) | NLP • DL • Flask |
+| 🧾 **[Automated Billing Extraction](https://github.com/Arefin-Saiful/Automated-Billing-Extraction-System)** | Extract bills → structured DB | Python • Parsing • SQL |
+| 💬 **[Amazon Reviews Sentiment](https://github.com/Arefin-Saiful/Amazon-Reviews-Sentiment-Analysis)** | Sentiment analysis app/dashboard | NLP • Streamlit |
+| 📈 **[Stock Prediction using LSTM](https://github.com/Arefin-Saiful/Stock_Prediction_using_LSTM)** | Time-series forecasting | LSTM • Python |
 
 ---
 
-### 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arefin-Saiful&show_icons=true&theme=radical&cache_seconds=86400" width="47%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arefin-Saiful&layout=compact&theme=radical&hide=jupyter%20notebook&cache_seconds=86400" width="47%" />
-</p>
-
-> ⚠️ <i>Top languages update automatically based on my public repositories.</i>
+## 🔗 Quick Links
+- 🌐 Portfolio: https://mdarefin.com/
+- 🧪 ER-IHC Segmentation: https://github.com/Arefin-Saiful/ER-Staining-Intensity-Semantic-Segmentation-using-Custom-DeepLabV3--
+- 🧠 EEG Classification: https://github.com/Arefin-Saiful/EEG-Signal-Classification
+- 💻 GitHub: https://github.com/Arefin-Saiful
 
 ---
 
