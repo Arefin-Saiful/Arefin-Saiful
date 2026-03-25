@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final Year **Data Science** student (Malaysia)
+- 🎓 Graduate **Data Science** student
 - 🔬 Focus: **Medical AI (Segmentation, MRI, EEG)** + **NLP** + **MLOps**
 - 🌐 Portfolio: https://mdarefin.com/
 - 💻 GitHub: https://github.com/Arefin-Saiful
